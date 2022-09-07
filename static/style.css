@@ -1,5 +1,9 @@
 *{
     align: center;
+    background-color: #333;
+}
+h1{
+    color: #fff;
 }
 #url{
     align: center;
@@ -46,6 +50,7 @@
     font-style: inherit;
     margin-top: 3%;
     margin-left: 25%;
+    
 
 }
 .center{
